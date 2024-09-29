@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oyuncular</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/jpg" href = arkaplan.jpg />
+    
+</head>
+<body>
+    <!--Header Başla-->
+    <header class="container" >
+        <nav>
+            <div class="logo">
+                <a href="index.html">Oyuncular</a>
+            </div>
+            <div class="menü">
+                <ul>
+                    <li><a href = "../index.html"> Anasayfa </a></li>
+                    <li><a href = "../filmler/index.html"> Filmler </a></li>
+                    <li><a href = "#"> İletişim </a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <!--Header Bitiş-->
+
+    <div class="container">
+        <img src="ıronman.jpeg">
+        <h1>Robert Downey JR</h1>
+        <p>Iron Man'i Canlandıran Aktör</p>
+
+        <img src="kaptan.jpeg">
+        <h1>Chris Evans</h1>
+        <p>Kaptan Amerika'yı Canlandıran Aktör</p>
+
+        <img src="thor.jpeg">
+        <h1>Chris Hemsworth</h1>
+        <p>Thor'u Canlandıran Aktör</p>
+
+        <img src="loki.jpeg">
+        <h1>Tom Hiddleston</h1>
+        <p>Loki'yi Canlandıran Aktör</p>
+
+        <img src="hawkaye.jpeg">
+        <h1>Jeremy Renner</h1>
+        <p>Hawkaye'yi Canlandıran Aktör</p>
+
+        <img src="karadul.jpeg">
+        <h1>Scarlett Johansson</h1>
+        <p>Karadul'u Cankandıran Aktör</p>
+
+        <img src="orğmcek.jpeg">
+        <h1>Tom Holland</h1>
+        <p>Örümcek Adam'ı Canlandıran Aktör</p>
+
+        <img src="panther.jpeg">
+        <h1>Chadwick Boseman (RIP)</h1>
+        <p>Black Panther'i Canlandıran Aktör</p>
+
+        <img src="hulk.jpeg">
+        <h1>Mark Ruffalo</h1>
+        <p>Hulk'u Canlandıran Aktör</p>
+
+        <img src="marvel.jpeg">
+        <h1>Brie Larson</h1>
+        <p>Kaptan Marvel'i Canlandıran Aktör</p>
+    </div>
