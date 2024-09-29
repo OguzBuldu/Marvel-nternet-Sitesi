@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background-image: url("arkplan2.jpg");
+    background-size: cover;
+}
+a {
+    color: white;
+}
+.container {
+    width: 80%;
+}
+/*Header Başla*/
+
+header {
+    height: 100px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.06);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+header nav .logo a {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color .25s ease;
+}
+
+nav .menu {
+    display: flex;
+    align-items: center;
+    column-gap: 48px;
+}
+
+.container img {
+    width: 10%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 30px;
+    border: 2px solid rgba(255, 255, 255, 0.684);
+    transition: all ease-in-out 0.5s;
+}
+
+.container img:hover {
+    width: 20%;
+}
+
+h1{
+    color: white;
+    
+}
+
+p{
+    color: white;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.06);
+}
+
