@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marvel Filmleri</title>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="shortcut icon" type="image/jpg" href = arkaplan.jpg />
+</head>
+<body>
+   <!--Header Başla-->
+   <header class="container" >
+    <nav>
+        <div class="logo">
+            <a href="index.html">FİLMLER</a>
+        </div>
+        <div class="menü">
+            <ul>
+                <li><a href = "../index.html"> ANASAYFA </a></li>
+                <li><a href = "../oyuncular/index.html"> Oyuncular </a></li>
+                <li><a href = "#"> İletişim </a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<!--Header Bitiş-->
+   
+
+    <div class="container">
+        <img src="thanos.jpeg"/>
+        <h1>Yenilmezler: Sonsuzluk Savaşı</h1>
+        <p>Evrenin yarısını yoketmek isteyen Thanos, dağılan Avangers ekibi onu durdurmaya çalışıyor.</p>
+        <img src="panther.jpeg"/>
+        <p>Kral babası ölen Black Panther Wakanda için mücadelesi.</p>
+        <h1>Black Panther</h1>
+        <img src="antman.jpeg"/>
+        <h1>Ant-Man</h1>
+        <p>Hapistan yeni çıkan Scott biri tarafından süper kahraman oluyor.</p>
+        <img src="captanmarvel.jpeg"/>
+        <h1>Kaptan Marvel</h1>
+        <p>Uzaydan dünyaya gelen ve evreni korumak görevinde olan bir süper kahraman</p>
+        <img src="ıron.jpeg">
+        <h1>Demir Adam</h1>
+        <p>Kaçırılan Tony Stark oradan kaçmak için bir zırh yapar ve artık süper kahraman olur.</p>
+        <img src="kaptan.jpeg">
+        <h1>Kaptan Amerşka</h1>
+        <p>2. Dünya Savaşında bir deney ile güçleri olan Steve Amerika için mücadele eder</p>
+        <img src="örümcek.jpeg">
+        <h1>Örümcek Adam</h1>
+        <p>Bir örümcek tarafından ısırılan Peter Parker süper güçleri olur.</p>
+        <img src="thor.jpeg"/>
+        <h1>Thor</h1>
+        <p>Başka bir gezegenden gelen Yıldırım Tanrısı Thor dünyayı korumak için mücadele eder</p>
+        <img src="galaksi.jpeg">
+        <h1>Galaksinin Koruyucuları</h1>
+        <p>Bir rakun, bir insan,bir ağaç ve farklı özellikte bir kaç kişi galaksiyi korumak için mücadele ederler</p>
+        <img src="deadpool.jpeg">
+        <h1>Deadpool</h1>
+        <p>Ölümsüz Olan Deadpool insanları korumak ve intikamını almak için mücadele eder.</p>
+
+
+
+    </div>
+</body>
+</html>
